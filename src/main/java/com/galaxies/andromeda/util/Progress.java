@@ -1,5 +1,5 @@
 
-package com.galaxies.adndromeda.util;
+package com.galaxies.andromeda.util;
 
 /**
  * Para mustrar el prgreso de una actividad
