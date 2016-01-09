@@ -26,4 +26,9 @@ public interface Progress
      * Si por alguna razon falla la operación
      */
     public void fail(Throwable throwable);
+    
+    /**
+     * 
+     */
+    public void clean();
 }
